@@ -1,0 +1,25 @@
+<mjml>
+    <mj-head>
+        <mj-title>Email Template</mj-title>
+        <mj-font name="Fontdiner Swanky" href="https://fonts.googleapis.com/css?family=Fontdiner+Swanky" />
+        <mj-font name="Bangers" href="https://fonts.googleapis.com/css?family=Bangers" />
+        <mj-font name="Permanent Marker" href="https://fonts.googleapis.com/css?family=Permanent+Marker" />
+        <mj-font name="Acme" href="https://fonts.googleapis.com/css?family=Acme" />
+        <mj-attributes>
+            <mj-class name="light" color="#FFFFF" />
+            <mj-class name="dark" color="#00000" />
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#FFFFF">
+        <mj-section>
+        <mj-column>
+            <mj-text font-family="Fontdiner Swanky">
+                Rock On Tees
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <!-- Second column content -->
+        </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
