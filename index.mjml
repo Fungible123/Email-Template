@@ -10,11 +10,11 @@
             <mj-class name="light" color="#fff" />
             <mj-class name="dark" color="#00000" />
         </mj-attributes>
-        <mj-style>
-            @media all and (max-width: 480px) {
-                .mobile-center {
-                    align: center !important;
-                }
+        <mj-style inline="inline">
+            .carousel-size div {
+                width: 90% !important;
+                height: auto !important;
+                margin: 10px !important;
             }
         </mj-style>
     </mj-head>
@@ -190,6 +190,7 @@
                     Shop Now 
                 </mj-button>
             </mj-column>
+
             <mj-column width="50%">
                 <mj-text align="center"
                          font-family="Acme"
@@ -261,15 +262,19 @@
             </mj-column>
             <mj-column width="50%"
                        padding="20px">
-                <mj-carousel tb-width="70px">
+                <mj-carousel tb-width="70px"
+                             tb-hover-border-color="#05B25B"
+                             left-icon="/images/arrow-left.svg"
+                             right-icon="/images/arrow-right.svg"
+                             css-class="carousel-size">
                     <mj-carousel-image src="/images/baby1.png" />
-                    <mj-carousel-image src="/images/mayan-ostrich1.png" width="230px" height="300px"/>
-                    <mj-carousel-image src="/images/walking-tribe1.png" width="230px" height="300px"/>
+                    <mj-carousel-image src="/images/mayan-ostrich1.png" />
+                    <mj-carousel-image src="/images/walking-tribe1.png" />
                 </mj-carousel>
-                <mj-navbar padding-top="60px">
-                    <mj-navbar-link href="/gettings-started-onboard" color="#000">Shop Online</mj-navbar-link>
-                    <mj-navbar-link href="/try-it-live" color="#000">Contact</mj-navbar-link>
-                    <mj-navbar-link href="/templates" color="#000">Unsubscibe</mj-navbar-link>
+                <mj-navbar padding="60px 0px 20px 0px">
+                    <mj-navbar-link href="/gettings-started-onboard" color="#000" font-family="Acme" padding-right="40px">Shop Online</mj-navbar-link>
+                    <mj-navbar-link href="/try-it-live" color="#000" font-family="Acme" padding-right="40px">Contact</mj-navbar-link>
+                    <mj-navbar-link href="/templates" color="#000" font-family="Acme">Unsubscibe</mj-navbar-link>
                 </mj-navbar>
                 <mj-text align="center">
                     ©Copyright RockOnTees
