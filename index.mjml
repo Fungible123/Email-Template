@@ -79,7 +79,7 @@
                 <mj-column width="100%">
                     <mj-image width="80px" 
                               height="100px" 
-                              src="/images/gesture-41359_640.png" 
+                              src="images/gesture-41359_640.png" 
                               alt="rock gesture" 
                               padding="0px"/>
                 </mj-column>
