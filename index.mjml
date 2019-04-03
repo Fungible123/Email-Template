@@ -77,11 +77,11 @@
                     </mj-text>
                 </mj-column>
                 <mj-column width="100%">
-                    <mj-image width="80px" 
+                    <mj-image src="images/gesture-41359_640.png" 
+                              width="80px" 
                               height="100px" 
-                              src="images/gesture-41359_640.png" 
                               alt="rock gesture" 
-                              padding="0px"/>
+                              padding="0px" />
                 </mj-column>
             </mj-section> 
         </mj-hero>
