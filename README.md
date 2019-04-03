@@ -20,9 +20,10 @@ Published: https://fungible123.github.io/Email-Template/
 ### Struggles:
 
 #### MJML
- - Not much flexibility in terms of styling the template
+ - Not much tight control over the layout
+ - Some components have parameters that don’t work as expected
+ - You tend to not get super specific with the design
  - Language is pretty straightforward to use
- - Images doesn't seem to be displaying properly in the HTML output when published in Github pages
  - Will need to create another email template this time using Foundation Emails
 
 ### Resources/Credits:
