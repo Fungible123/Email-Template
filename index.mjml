@@ -96,7 +96,7 @@
                          font-size="40px">
                     Baby Angel
                 </mj-text>
-                <mj-image src="/images/baby1.png" 
+                <mj-image src="images/baby1.png" 
                           alt="baby angel"
                           align="center" 
                           width="230px" 
@@ -127,7 +127,7 @@
                          mj-class="light">
                          Mayan Ostrich
                 </mj-text>
-                <mj-image src="/images/mayan-ostrich1.png" 
+                <mj-image src="images/mayan-ostrich1.png" 
                           alt="mayan ostrich"
                           align="center" 
                           width="230px" 
@@ -156,7 +156,7 @@
 
         <!-- Mid Section -->
         <mj-section background-color="#636262"
-                    background-url="/images/dragon-42984_1280.png"
+                    background-url="images/dragon-42984_1280.png"
                     background-repeat="no-repeat"
                     background-size="120%">
             <mj-column width="50%">
@@ -166,7 +166,7 @@
                          mj-class="light">
                          Dark Phoenix
                 </mj-text>
-                <mj-image src="/images/phoenix1.png" 
+                <mj-image src="images/phoenix1.png" 
                           alt="dark phoenix"
                           align="center" 
                           width="230px" 
@@ -198,7 +198,7 @@
                          mj-class="light">
                          King of Skulls
                 </mj-text>
-                <mj-image src="/images/skull1.png" 
+                <mj-image src="images/skull1.png" 
                           alt="dark phoenix"
                           align="center" 
                           width="230px" 
@@ -236,7 +236,7 @@
                          mj-class="light">
                          Walking Tribe
                 </mj-text>
-                <mj-image src="/images/walking-tribe1.png" 
+                <mj-image src="images/walking-tribe1.png" 
                           alt="dark phoenix"
                           align="center" 
                           width="230px" 
@@ -264,12 +264,12 @@
                        padding="20px">
                 <mj-carousel tb-width="70px"
                              tb-hover-border-color="#05B25B"
-                             left-icon="/images/arrow-left.svg"
-                             right-icon="/images/arrow-right.svg"
+                             left-icon="images/arrow-left.svg"
+                             right-icon="images/arrow-right.svg"
                              css-class="carousel-size">
-                    <mj-carousel-image src="/images/baby1.png" />
-                    <mj-carousel-image src="/images/mayan-ostrich1.png" />
-                    <mj-carousel-image src="/images/walking-tribe1.png" />
+                    <mj-carousel-image src="images/baby1.png" />
+                    <mj-carousel-image src="images/mayan-ostrich1.png" />
+                    <mj-carousel-image src="images/walking-tribe1.png" />
                 </mj-carousel>
                 <mj-navbar padding="60px 0px 20px 0px">
                     <mj-navbar-link href="/gettings-started-onboard" color="#000" font-family="Acme" padding-right="40px">Shop Online</mj-navbar-link>
