@@ -17,14 +17,14 @@ Published: https://fungible123.github.io/Email-Template/
 #### Github
  - Used github pages to publish the website
 
-### Struggles:
+### Difficulties:
 
 #### MJML
  - Not much tight control over the layout
  - Some components have parameters that don’t work as expected
  - You tend to not get super specific with the design
  - Language is pretty straightforward to use
- - Will need to create another email template this time using Foundation Emails
+ - Alternative technology I could use is Foundation for Emails. Might create a sample website using this technology in future projects.
 
 ### Resources/Credits:
 
