@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mjml": "^4.4.0-beta.1"
+    "lodash": "^4.17.13",
+    "lodash.merge": "^4.6.2",
+    "mjml": "^4.4.0-beta.3"
   }
 }
