@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "lodash.merge": "^4.6.2",
     "mem": "^4.0.0",
     "mjml": "^4.4.0-beta.3"
